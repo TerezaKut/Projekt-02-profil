@@ -63,24 +63,16 @@ p {color: lightgray;
 
 .odkazy {
   display:flex;
-  flex-direction:row;
   flex-wrap: wrap;
   background-color:#31363b;
-  justify-content: space-around;
-  align-items:center;
 }
 
 .portfolio {
   flex-basis:100%;
-  padding:10px;
-  align-content:center;
-
 }
 
 .twitter, .facebook, .portfolio {
   padding:10px;
-  
-  align-content:center;
   border: 0.5px #3f464d;
   border-style: solid none none none;
   text-align:center;
@@ -112,8 +104,4 @@ a {
 }
 
 
-
-li {
-  list-style-type: none;
-}
 
