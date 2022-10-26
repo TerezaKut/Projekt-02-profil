@@ -18,6 +18,7 @@ tlačítko twitter          #1da1f2
 body {
   background-color: #bdc3c7;
   font-family: 'Source Sans Pro';
+<<<<<<< HEAD
   margin: 20% 30%;
 }
 
@@ -26,16 +27,33 @@ body {
   flex-direction:column;
   box-shadow: 10px 10px 8px #888888;
   background-color: #bdc3c7; 
+=======
+}
+
+.profil {
+  position:relative;
+	width: 250px;
+  box-shadow: 10px 10px 8px #888888;
+  background-color: #bdc3c7;  
+>>>>>>> 989c96bb3cfcd52a5a6af9cbe8ad6ce391e1128b
 }
 
 .hlavicka {
   position:relative;
   top:0px;
+<<<<<<< HEAD
   width:100%;
 }
 
 .foto {
   width:100%;
+=======
+}
+
+.foto {
+  position:relative;
+  width:250px;
+>>>>>>> 989c96bb3cfcd52a5a6af9cbe8ad6ce391e1128b
   display:block;
 }
 
@@ -43,8 +61,14 @@ body {
   position:absolute;
   background-color: #b92e81;
 	border-radius: 50%;
+<<<<<<< HEAD
   top: 90%;
   right: 10%;
+=======
+  left: 180px;
+  bottom: -20px;
+
+>>>>>>> 989c96bb3cfcd52a5a6af9cbe8ad6ce391e1128b
 }
 
 .jmeno {
@@ -54,6 +78,7 @@ body {
 }
 
 p {color: lightgray;
+<<<<<<< HEAD
    font-size:14px;
   }
 
@@ -61,6 +86,13 @@ p {color: lightgray;
    background-color:#31363b;
    padding: 20px;
    width: 100%;
+=======
+   font-size:14px;}
+
+.obsah {
+   background-color:#31363b;
+   padding: 15px;
+>>>>>>> 989c96bb3cfcd52a5a6af9cbe8ad6ce391e1128b
 }
 
 .odkazy {
