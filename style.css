@@ -25,25 +25,28 @@ body {
   display:flex;
   flex-direction:column;
   box-shadow: 10px 10px 8px #888888;
-  background-color: #bdc3c7; 
+  background-color: #bdc3c7;
+  width:400px; 
 }
 
 .hlavicka {
   position:relative;
   top:0px;
+
 }
 
 .foto {
   position:relative;
-  width:100%;
+  width:400px;
   display:block;
+
 }
 
 .logo {
   position:absolute;
   background-color: #b92e81;
 	border-radius: 50%;
-  top: 90%;
+  bottom: -10%;
   right: 10%;
 }
 
@@ -60,12 +63,14 @@ p {color: lightgray;
 .obsah {
    background-color:#31363b;
    padding: 20px;
-   width: 100%;
+   width: 400px;
+
 }
 
 .odkazy {
   display:flex;
   flex-wrap: wrap;
+  width:400px;
   background-color:#31363b;
 }
 
