@@ -43,14 +43,8 @@ body {
   position:absolute;
   background-color: #b92e81;
 	border-radius: 50%;
-<<<<<<< HEAD
   top: 90%;
   right: 10%;
-=======
-  left: 180px;
-  bottom: -20px;
-
->>>>>>> 989c96bb3cfcd52a5a6af9cbe8ad6ce391e1128b
 }
 
 .jmeno {
@@ -60,7 +54,6 @@ body {
 }
 
 p {color: lightgray;
-<<<<<<< HEAD
    font-size:14px;
   }
 
@@ -68,13 +61,6 @@ p {color: lightgray;
    background-color:#31363b;
    padding: 20px;
    width: 100%;
-=======
-   font-size:14px;}
-
-.obsah {
-   background-color:#31363b;
-   padding: 15px;
->>>>>>> 989c96bb3cfcd52a5a6af9cbe8ad6ce391e1128b
 }
 
 .odkazy {
